@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+pytube
+python-dotenv
+youtube-transcript-api
+google-generativeai
+numpy
